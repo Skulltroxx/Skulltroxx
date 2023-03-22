@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil
-- 👀 I’m interested in coding in general, and mostly the "I can create anything" aspect of it.
-- 🌱 I’m currently learning Javascript for web dev.
+- 👀 Interested in coding in general, and mostly the ability to create anything aspect of it.
+- 🌱 Learning web dev.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
